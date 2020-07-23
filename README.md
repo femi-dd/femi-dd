@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, I'm Femi 👋
+I'm a Software Engineer who develops backend solutions, services and desktop applications with PHP and C#. 
+I previously worked on legacy code, which I really learned a great deal from. I have written documentation for existing codebases, secured and integrated existing APIs while working with a team of amazing engineers. 
+I enjoy working with scripting languages and backend/server-side development and fixing bugs and motivating others. I answer questions on StackOverflow to learn and improve my skills.
 <!--
 **femi-dd/femi-dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
